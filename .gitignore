@@ -11,3 +11,5 @@ vendor/*
 /.vscode
 #ignoring  NetBeans project files
 /nbproject
+/build/
+.phpunit*
